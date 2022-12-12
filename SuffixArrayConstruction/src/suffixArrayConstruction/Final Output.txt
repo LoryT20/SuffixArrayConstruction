@@ -1,0 +1,28 @@
+___ TEST 1 ___
+*** DC3 test ***
+[6, 5, 3, 1, 0, 4, 2]
+Elapsed Time in seconds: 0.0011992
+Used memory in megabytes: 1
+
+*** Manber Myers Test ***
+[6, 5, 3, 1, 0, 4, 2]
+Elapsed Time in seconds: 0.0041933
+Used memory in megabytes: 1
+
+*** Brute Force ***
+[6, 5, 3, 1, 0, 4, 2] 
+Elapsed Time in seconds: 0.0019933
+Used memory in megabytes: 1
+
+___ 1984 ___
+*** DC3 test ***
+Elapsed Time in seconds: 0.2781046
+Used memory in megabytes: 48
+
+*** Manber Myers Test ***
+Elapsed Time in seconds: 4.4011762
+Used memory in megabytes: 95
+
+*** Brute Force ***
+Elapsed Time in seconds: 1066.3385834
+Used memory in megabytes: 118
